@@ -1,0 +1,5 @@
+DOCUMENTACION DE SOLUCION 
+
+Este archivo fue creado en la rama bugfix.
+
+Aqui se documenta la solucion realizada.
