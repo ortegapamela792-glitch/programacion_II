@@ -1,0 +1,5 @@
+DOCUMENTACIÓN DE SOLUCIÓN HOTFIX
+
+Este archivo fue creado en la rama hotfix.
+
+Aquí se documenta la solución de emergencia realizada.
